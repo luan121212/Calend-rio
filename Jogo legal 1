@@ -11,3 +11,18 @@ TurboBrasil/
 │   ├── carro.png
 │   ├── pista.png
 │   └── inimigos.png
+index.html
+style.css
+game.js
+menu.js
+ui.js
+audio.js
+storage.js
+assets/ (sprites e sons)
+README.md
+index.html
+style.css
+game.js
+menu.js
+assets/images/...
+assets/sounds/...
